@@ -86,7 +86,7 @@ Quick overview of project structure, components and their roles.
 ├── 📖README.md
 ```
 
-## Sources
+## Credits
 - https://code.visualstudio.com/docs/python/tutorial-flask 
 - https://code.visualstudio.com/docs/containers/quickstart-python 
 - https://hub.docker.com/_/python
