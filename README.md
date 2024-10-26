@@ -57,7 +57,7 @@ You can also start a containerized development environment and start working on 
 To start the development container, issue following command:
 
 ``` shell
-./start-go-devcontainer.sh
+./start-python3-devcontainer.sh
 ```
 
 For the first run, the script will build an image based on `Dockerfile`, the process may take a while. Latter runs will reuse the prebuilt image.
@@ -80,7 +80,6 @@ Quick overview of project structure, components and their roles.
 ├── 📄.devcontainer.json                    # VSCode Remote-Containers configuration.
 ├── 📄.gitignore
 ├── 📄Dockerfile                            # Instructions to build development Docker image.
-├── 📄go.mod                                # Go module file.
 ├── 🚀main.py                               # Your application code's main entry point.
 ├── 📖LICENSE
 ├── 📖README.md
